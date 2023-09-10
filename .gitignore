@@ -1,0 +1,29 @@
+#Ignore Jupyter Notebook  checkpoints
+.ipynb_checkpoints/
+
+#Ignore temporary PyTorch files
+.pt_tmp/
+#Ignore Visual Studio Code Settings 
+.vscode/
+
+#Ignore raw data files, but not the 'data' directory itself ( several optimized versions will be added after adequate treatement ...
+data/raw_data
+
+#Ignore Python Cache files 
+__pycache__/
+
+#Ignore compiled  Python files
+*.pyc
+
+#Ignore virtual environments
+venv/
+env/
+
+#Ignore generated model files 
+models
+
+# Ignore project-specific directories (will be adjust as needed)
+notebooks/
+scripts/
+sketch/
+src/
