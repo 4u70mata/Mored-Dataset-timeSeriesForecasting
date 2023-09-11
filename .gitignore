@@ -23,7 +23,6 @@ env/
 models
 
 # Ignore project-specific directories (will be adjust as needed)
-notebooks/
 scripts/
 sketch/
 src/
