@@ -7,7 +7,7 @@
 .vscode/
 
 #Ignore raw data files, but not the 'data' directory itself ( several optimized versions will be added after adequate treatement ...
-data/raw_data
+data/donnéesMORED
 
 #Ignore Python Cache files 
 __pycache__/
